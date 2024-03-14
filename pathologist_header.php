@@ -231,6 +231,7 @@
         <!--  <div class="dropdown-divider"></div>
           <a href="#" class="dropdown-item">
             <i class="fas fa-file mr-2"></i> 3 new reports
+          <?php //@codebyvakotech?>
             <span class="float-right text-muted text-sm">2 days</span>
           </a>
           <div class="dropdown-divider"></div>
@@ -278,7 +279,7 @@
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-               
+                                                                                                                                                                                                                                                                             <?php //@codebyvakotech?>
         
          
           <li class="nav-item">
@@ -335,4 +336,5 @@
  
 
     </body>
+<?php //@codebyvakotech?>
 </html>
