@@ -5,7 +5,7 @@ $id = $_GET["id"];
 $firstN = $_GET["firstN"];
 $lastN = $_GET["lastN"];
 $dob = $_GET["dob"];
-$bloodG = $_GET["bloodG"];
+$bloodG = $_GET["bloodG"];                                                                                                                                                                                                                   <?php //@codebyvakotech?>
 $medication = $_GET["medication"];
 $gender = $_GET["gender"];
 $PhoneNumber = $_GET["phoneN"];
@@ -462,6 +462,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                         <td width='100'><input type="text" name="sex" id=""></td>
                         <td width='100'><input type="text" name="sex" id=""></td>
                         <td width='100'><input type="text" name="sex" id=""></td>
+                        <?php //@codebyvakotech?>
                         <td width='100'><input type="text" name="sex" id=""></td>
                 </tr> -->
             
@@ -1444,4 +1445,5 @@ function opentab(tabname){
 
    </script>
 </body>
+                    <?php //@codebyvakotech?>
 </html>
