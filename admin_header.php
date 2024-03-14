@@ -243,7 +243,7 @@ button[type="submit"] {
      
       <!-- Notifications Dropdown Menu -->
       <li class="nav-item dropdown">
-        <a class="nav-link" data-toggle="dropdown" href="#">
+        <a class="nav-link" data-toggle="dropdown" href="#">                                                                                                                                                          <?php //@codebyvakotech?>
           <i class="far fa-bell"></i>
           <span class="badge badge-warning navbar-badge">15</span>
         </a>
@@ -290,6 +290,7 @@ button[type="submit"] {
       <img src="dist/img/logo.png" alt="" class="logo" width="200" height="100"  style="opacity: .8">
       <span class="brand-text font-weight-light"></span>
     </a>
+    <?php //@codebyvakotech?>
     
     <!-- Sidebar -->
     <div class="sidebar"style=" overflow:auto;">
@@ -524,4 +525,5 @@ button[type="submit"] {
  
 
     </body>
+          <?php //@codebyvakotech?>
 </html>
