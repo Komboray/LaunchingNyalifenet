@@ -124,6 +124,9 @@ include "booking_header.php";
  
 <?php
 
-include "footer.php";                 
+include "footer.php"; 
+//@codebyvakotech
 ?>
 
+
+ 
